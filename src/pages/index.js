@@ -24,7 +24,7 @@ const IndexPage = () => (
           <main className="c-section">
             <div className="o-wrapper">
               <h1 className="u-visually-hidden">Darren Hall</h1>
-              <h2>I&rsquo;m a freelance frontend developer based in Manchester.</h2>
+              <h2>I&rsquo;m a frontend developer based in Manchester.</h2>
               <p>With over {new Date().getFullYear() - 2004} years of commercial experience I develop responsive, performant and accessible websites using HTML, CSS and JavaScript. I’ve done a lot of React work recently and have also done a fair few Node, Gatsby and Jekyll sites.</p>
               <p>I use Webpack in my build automation and have previously used Gulp and Grunt extensively. I’m currently moving my deployment from Travis CI to Buddy. </p>
               <h3>Skills</h3>
@@ -50,8 +50,8 @@ const IndexPage = () => (
               <p>I have previously worked with extensively with WordPress, and more recently with Craft CMS. My previous work as an Object-Oriented PHP developer with CakePHP, CodeIgniter and Symfony allows me to get the most out of these systems.</p>
               <h3>Sitecore and Umbraco&nbsp;friendly</h3>
               <p>Many of the projects I have worked on in the last few years used a .NET CMS, and I am skilled at working with both Sitecore and Umbraco. I am adept at integrating Razor templates and have a working knowledge of editing controllers and tests.</p>
-              <h2>Currently available from May</h2>
-              <p>If you&rsquo;re interested in working with me then I&rsquo;d love to hear from you! I&rsquo;m currently available from the start of May 2019. </p>
+              <h2>Currently looking for new opportinities.</h2>
+              <p>If you&rsquo;re interested in working with me then I&rsquo;d love to hear from you! I&rsquo;m currently looking for new opportunities in 2020. </p>
               <p><a href="mailto:darren@darrenhall.co" className="c-button">Get in touch</a></p>
             </div>
           </main>
