@@ -1,0 +1,77 @@
+.c-card {
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+	padding-bottom: 1rem;
+  padding-top: 1rem;
+  
+  a {
+    color: inherit;
+    border-bottom-color: inherit;
+    transition: opacity 0.25s;
+
+    &:hover {
+      opacity: 0.5;
+      color: inherit;
+      border-bottom-color: inherit;
+    }
+  }
+}
+
+.c-card--amnesty {
+  background-color: #ffff00;
+}
+
+.c-card--bupa {
+  background-color: #00aeef;
+  color: #fff;
+}
+
+.c-card--cdl {
+  background-color: #252525;
+  color: #fff;
+}
+
+.c-card--channelmum {
+  background-color: #58dbe6;
+}
+
+.c-card--coop {
+  background-color: #00b0e1;
+  color: #fff;
+}
+
+.c-card--goahead {
+  background-color: #f2f2f2;
+}
+
+.c-card--goeuro {
+  background-color: #2a82b7;
+  color: #fff;
+}
+
+.c-card--hmv {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.c-card--seesaw {
+  background-color: #f7d100;
+}
+
+  .c-card__logo {
+    margin-top: 1.5rem;
+    max-width: 15.625rem;
+  }
+
+  .c-card__logo--bupa {
+    max-width: 5.625rem;
+  }
+
+  .c-card__logo--coop {
+    max-width: 5.625rem;
+  }
+
+  .c-card__title {
+    margin-bottom: 0.25rem;
+    margin-top: 1.5rem;
+  }

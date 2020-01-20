@@ -7,7 +7,7 @@ const Layout = ({ children }) => (
   <>
     <Header />
     <main>{children}</main>
-    <footer className="c-section c-section--masthead">
+    <footer className="c-section c-section--footer">
       <div className="o-wrapper">
         <div className="o-grid">
           <div className="o-grid__item">
