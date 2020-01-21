@@ -59,12 +59,7 @@ const IndexPage = () => (
                     </ul>
                   </div>
                 </div>
-                <h3>Test Driven Development</h3>
-                <p>Mocha and Chai are my go to test tools, but I have also used Jasmine and Karma. I have some experience using BackstopJS to create automated visual regression tests.</p>
-                <h3>Experienced with WordPress and Craft CMS</h3>
-                <p>I have previously worked with extensively with WordPress, and more recently with Craft CMS. My previous work as an Object-Oriented PHP developer with CakePHP, CodeIgniter and Symfony allows me to get the most out of these systems.</p>
-                <h3>Sitecore and Umbraco&nbsp;friendly</h3>
-                <p>Many of the projects I have worked on in the last few years used a .NET CMS, and I am skilled at working with both Sitecore and Umbraco. I am adept at integrating Razor templates and have a working knowledge of editing controllers and tests.</p>
+                <p>I have integrated with many different content management systems using .NET (Sitecore and Umbraco), PHP (WordPress and Craft CMS) and of course with headless, cloud based systems such as Prismic and Contentful.</p>
               </div>
             </section>
             <section className="c-section">
