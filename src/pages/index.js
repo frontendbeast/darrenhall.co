@@ -42,7 +42,7 @@ const IndexPage = () => (
             <section className="c-section c-section--alt">
               <div className="o-wrapper">
                 <h3>Skills</h3>
-                <p>For the past two years I have worked almost exlcusively in React, with some Gatsby and Jekyll thrown in too. I have previosly worked extensively in Angular.</p>
+                <p>For the past two years I have worked almost exclusively in React, with some Gatsby and Jekyll thrown in too. I have previously worked extensively in Angular.</p>
                 <div className="o-grid">
                   <div className="o-grid__item o-grid__item--1/1 o-grid__item--1/2@md">
                     <ul>
