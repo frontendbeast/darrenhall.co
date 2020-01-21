@@ -82,7 +82,7 @@ const IndexPage = () => (
                 <img src={logoCDL} className="c-card__logo c-card__logo--cdl" alt="" />
                 <h4 className="c-card__title">CDL</h4>
                 <h5>White label insurance application site</h5>
-                <p>Working with the in-house team on a bespoke Node.js application, allowing the modular construction of&nbsp;insurance application sites by less experienced team members. Test-driven development.</p>
+                <p>Working with the in-house team on a bespoke Node.js application, allowing the modular construction of&nbsp;insurance application sites by less experienced team members. Used for clients such as Sainsbury's, Swinton and Tesco. Test-driven development.</p>
               </div>
               <div className="o-wrapper c-card c-card--channelmum">
                 <img src={logoChannelMum} className="c-card__logo c-card__logo--channelmum" alt="" />
