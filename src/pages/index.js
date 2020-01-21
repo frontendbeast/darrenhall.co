@@ -124,7 +124,7 @@ const IndexPage = () => (
                 <img src={logoHMV} className="c-card__logo c-card__logo--hmv" alt="" />
                 <h4 className="c-card__title"><a href="https://www.hmv.com/">HMV</a></h4>
                 <h5>Music retailer site</h5>
-                <p>Majority of front end development for initial launch of site. I killed Nipper! I was the one who removed the dog from the logo on the site when rebranded. Sad times.</p>
+                <p>Majority of front end development for initial launch of site. I killed Nipper! I was the one who removed Nipper the dog from the HMV logo on the site when they rebranded. Sad times.</p>
               </div>
             </section>
             <section className="c-section c-section--alt">
